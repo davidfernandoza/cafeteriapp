@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue';
+@import 'vue-select/src/scss/vue-select.scss';
+
+@import 'template';
+
+body {
+	min-height: 100vh;
+}
+
+.vs__dropdown-toggle {
+	padding: 0 0 9px 0 !important;
+}

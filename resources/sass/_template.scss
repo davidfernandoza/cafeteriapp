@@ -1,0 +1,48 @@
+.template {
+	display: flex;
+	min-height: 100vh;
+
+	&__aside {
+		background-color: $pink;
+		min-height: 100%;
+		min-width: 15rem;
+
+		a {
+			text-decoration: none;
+			color: black;
+			font-size: 20px;
+		}
+	}
+	&__title {
+		padding-left: 1rem;
+	}
+	&__menu {
+		width: 100%;
+		ul {
+			margin: 0;
+			padding: 0;
+		}
+	}
+	&__menu-item {
+		list-style-type: none;
+		padding: 0.5rem;
+		width: 100%;
+		padding-left: 1rem;
+
+		&:hover {
+			background-color: $pink_hover;
+		}
+	}
+
+	&__content {
+		min-height: 100vh;
+		width: 100%;
+	}
+}
+
+.main {
+	width: 100%;
+	min-height: 100vh;
+	padding: 2rem;
+	background-color: rgb(228, 228, 228);
+}
