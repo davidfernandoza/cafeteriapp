@@ -1,4 +1,5 @@
 URL de la app:
+
 https://cafeteriapp.herokuapp.com/
 
 Se debe de tener habilitado:
@@ -15,12 +16,16 @@ Se debe de tener habilitado:
 * XML PHP Extension
 
 Se debe descargar e instalar composer:
-	https://getcomposer.org/download/
+
+https://getcomposer.org/download/
+
 
 Se debe descargar e intalar node.js lst
-	https://nodejs.org/en/
+
+https://nodejs.org/en/
 
 Se debe de tener instalado mysql
+
 Se crea una base de datos con el nombre de su agrado
 
 Se descarga el repositorio y se debe de ejecutar los siguientes comandos dentro de la carpeta:
@@ -29,12 +34,15 @@ Se descarga el repositorio y se debe de ejecutar los siguientes comandos dentro 
 * npm install
 
 Se debe de crear un archivo .env y configurarlo con los datos del .env.example
+
 Despues de eso se debe de usar los siguientes comandos:
 
 * php artisan key:generate
 * php artisan migrate --seed
 * php artisan server
+
 	
 Funciona en:
-	http://localhost:8000/
+
+http://localhost:8000/
 	
