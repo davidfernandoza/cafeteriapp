@@ -6,7 +6,9 @@
         "watch-poll": "mix watch -- --watch-options-poll=1000",
         "hot": "mix watch --hot",
         "production": "mix --production",
-        "prod": "mix --production"
+        "prod": "mix --production",
+				"postinstall": "npm run prod"
+
     },
     "devDependencies": {
         "axios": "^0.21.1",
