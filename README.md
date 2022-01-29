@@ -1,4 +1,4 @@
-URL de la app:
+1) URL de la app:
 
 https://cafeteriapp.herokuapp.com/
 
@@ -45,4 +45,7 @@ Despues de eso se debe de usar los siguientes comandos:
 Funciona en:
 
 http://localhost:8000/
+
+
+2) Las counsultas y la base de datos estan en la carpeta /sql
 	
