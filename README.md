@@ -2,7 +2,7 @@ URL de la app:
 https://cafeteriapp.herokuapp.com/
 
 Se debe de tener habilitado:
-	* PHP >= 7.2.5
+* PHP >= 7.2.5
 	* BCMath PHP Extension
 	* Ctype PHP Extension
 	* Fileinfo PHP Extension
