@@ -1,4 +1,4 @@
-1) URL de la app:
+<h2>1)</h2> URL de la app:
 
 https://cafeteriapp.herokuapp.com/
 
@@ -46,6 +46,5 @@ Funciona en:
 
 http://localhost:8000/
 
-
-2) Las counsultas y la base de datos estan en la carpeta /sql
+<h2>2)</h2> Las counsultas y la base de datos estan en la carpeta /sql
 	
